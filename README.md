@@ -42,9 +42,9 @@ The requirements are defined in `requirements.txt`, basically consisting of:
 - Matplotlib
 - Jupyter Noebook
 
-## Requirements
+## File Structure
 
-The requirements are defined in `requirements.txt`, basically consisting of:
+This repository consists of the following files:
 
 ```
 .
