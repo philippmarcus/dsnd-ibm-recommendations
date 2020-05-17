@@ -1,6 +1,6 @@
 # Recommendations with IBM
 
-##Introduction
+### Introduction
 
 This project aims at analyzing the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they will like. Below you can see an example of what the dashboard could look like displaying articles on the [IBM Watson Platform](https://dataplatform.cloud.ibm.com/https://dataplatform.cloud.ibm.com/community?context=wdp)
 
